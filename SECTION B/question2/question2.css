@@ -1,0 +1,13 @@
+nav{
+    text-align: right;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-right: 80px;
+    background-color: blue;
+    color: white;
+    
+}
+nav a{
+    display: flexbox;
+    flex-direction: row;
+}

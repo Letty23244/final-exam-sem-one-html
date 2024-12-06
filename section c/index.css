@@ -1,0 +1,28 @@
+nav{
+    text-align: left;
+    text-decoration: none;
+    margin: auto;
+    padding: 5px,5px,5px,5px;
+    background-color: black;
+}
+nav a{
+    color: white;
+    font-size: larger;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+img{
+    width: 500px;
+    height: 500px;
+    border-radius: 350px;
+}
+fieldset{
+    width: 400px;
+    height: 400px;
+    background-color: white;
+    color:black;
+}
+button{
+    background-color: green;
+    color: white;
+}

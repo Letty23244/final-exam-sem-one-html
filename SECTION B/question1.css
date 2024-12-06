@@ -1,0 +1,24 @@
+.gridcontainer{
+    display: block;
+    grid-template-rows: auto auto auto auto;
+    gap: 5px;
+    border: 1px solid;
+}
+.card one{
+    text-align: justify;
+    color: aqua;
+    border: 1px solid;
+}
+ul {
+    background-color: bisque;
+    border: 2px solid;
+}
+@media only screen,(max-width:768px){
+    .gridcontainer{
+        background-color: blueviolet;
+        text-align: left;
+        padding: auto;
+    }
+    
+    
+}
